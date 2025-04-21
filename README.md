@@ -29,7 +29,7 @@ Welcome to Resume Folio, your ultimate destination for creating professional res
 3. Explore templates, customize your resume, and download the final PDF.
 
 ## Contributing
-I welcome contributions! If you have ideas for improvements or would like to report issues, please write me on my email: narendra.1@alumni.iitj.ac.in.
+I welcome contributions! If you have ideas for improvements or would like to report issues, please write me on my email: narendra.1@alumni.iitj.ac.in or put them in issues tab of this repo.
 
 ## Acknowledgments
 - Developed by Narendra
