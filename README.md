@@ -5,6 +5,7 @@ Welcome to Resume Folio, your ultimate destination for creating professional res
 ## Website Link
 [Resume Folio](https://resume-folio-frontend.vercel.app/)
 
+<img src='/images/home-page.png' alt="editor" />
 <img src='/images/editor.png' alt="editor" />
 
 ## Features
