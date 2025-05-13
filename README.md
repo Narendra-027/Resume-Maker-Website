@@ -5,6 +5,8 @@ Welcome to Resume Folio, your ultimate destination for creating professional res
 ## Website Link
 [Resume Folio](https://resume-folio-frontend.vercel.app/)
 
+<img src='/images/editor.png' alt="editor" />
+
 ## Features
 
 - **Real-time Editing**: Edit, customize, and preview your resume in real-time.
