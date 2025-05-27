@@ -26,6 +26,10 @@ Welcome to Resume Folio, your ultimate destination for creating professional res
 - **Description**: Automatically generate resumes based on job descriptions and user profiles.
 - **Benefits**: Tailored resumes optimized for specific job applications, saving time and effort.
 
+### 3. In-place Resume Editing using AI.
+- **Description**: Based on user prompt, edit the resume in-place.
+- **Benifits**: No need to go to any GPT and ask it to enhance the resume bullet points or any section. 
+
 ## Getting Started
 1. Visit [Resume Folio](https://resume-folio-frontend.vercel.app/).
 2. Sign up or log in to start creating your resume.
