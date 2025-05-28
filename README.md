@@ -33,7 +33,7 @@ Welcome to Resume Folio, your ultimate destination for creating professional res
 ## Getting Started
 1. Visit [Resume Folio](https://resume-folio-frontend.vercel.app/).
 2. Sign up or log in to start creating your resume.
-3. Explore templates, customize your resume, and download the final PDF.
+3. Explore templates, customize your resume, and download the final PDF (working on improving pdf quality).
 
 ## Contributing
 I welcome contributions! If you have ideas for improvements or would like to report issues, please write me on my email: narendra.1@alumni.iitj.ac.in or put them in issues tab of this repo.
