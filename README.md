@@ -7,7 +7,7 @@
 Fill in your career once. Build as many resumes from it as you need — each one restyled, reordered, and tailored to a specific job — and export a pixel-identical PDF with selectable, ATS-readable text.
 
 <!-- TODO: replace with the deployed URL -->
-🔗 **✍️ **[Try it without an account](https:/rezumatio.vercel.app/try)**
+🔗 **[Try it without an account](https://rezumatio.vercel.app/try)**
 
 <!-- TODO: images/hero.png — the full editor: left form pane, right live A4 preview, ~1600px wide -->
 ![The editor: structured forms on the left, live A4 preview on the right](images/hero.png)
