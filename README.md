@@ -124,7 +124,11 @@ Pasted job descriptions are ephemeral — used for the request, never stored. AP
 ![Per-bullet AI enhancement with variants](docs/images/ai-bullet.png)
 
 <!-- TODO: docs/images/tailor.png — the tailor panel with a JD pasted and per-section Use/Skip cards -->
-![Tailoring a resume to a job description](docs/images/tailor.png)
+<div style="display:flex; flex-direction:row; gap:1rem; flex-wrap:wrap;">
+  <img src="docs/images/tailor-1.png" alt="Tailoring a resume to a job description" />
+  <img src="docs/images/tailor-2.png" alt="Tailoring a resume to a job description" />
+  <img src="docs/images/tailor-3.png" alt="Tailoring a resume to a job description" />
+</div>
 
 ---
 
