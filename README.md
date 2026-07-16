@@ -9,7 +9,7 @@ Fill in your career once. Build as many resumes from it as you need — each one
 <!-- TODO: replace with the deployed URL -->
 🔗 **[Live demo](#)** · ✍️ **[Try it without an account](#/try)**
 
-<!-- TODO: docs/images/hero.png — the full editor: left form pane, right live A4 preview, ~1600px wide -->
+<!-- TODO: images/hero.png — the full editor: left form pane, right live A4 preview, ~1600px wide -->
 ![The editor: structured forms on the left, live A4 preview on the right](images/hero.png)
 
 > **About this repository:** the application source is private. This repo exists to document the product, the architecture, and the engineering decisions behind it.
@@ -51,8 +51,8 @@ Each field is its own input. Companies, job titles, locations, and dates are dis
 - **Global undo/redo** — `Ctrl+Z` works across everything: typing, reordering, template switches, and accepted AI suggestions alike. One history, no per-feature special cases.
 - **Autosave** — debounced, with a flush-on-leave so closing the tab doesn't cost you work.
 
-<!-- TODO: docs/images/editor-forms.png — the section navigator + an experience form with several bullets, showing the drag handles -->
-![The section navigator and an experience form](docs/images/editor-forms.png)
+<!-- TODO: images/editor-forms.png — the section navigator + an experience form with several bullets, showing the drag handles -->
+![The section navigator and an experience form](images/editor-forms.png)
 
 ---
 
@@ -62,8 +62,8 @@ The right pane renders true A4 pages — plural. As you type, the app measures e
 
 This isn't a preview approximation. The page breaks you see on screen are the exact page breaks in your PDF, because the same pagination result is what gets printed. (More on how in [How it works](#how-it-works-the-interesting-parts).)
 
-<!-- TODO: docs/images/pagination.png — a two-page resume in the preview, showing a clean break between entries -->
-![Multi-page preview with clean page breaks](docs/images/pagination.png)
+<!-- TODO: images/pagination.png — a two-page resume in the preview, showing a clean break between entries -->
+![Multi-page preview with clean page breaks](images/pagination.png)
 
 ---
 
@@ -81,11 +81,11 @@ Switch templates in one click. Your content is never touched — only the layout
 
 Section reordering happens in layout order, grouped by column. Sections move up and down within their column — never across, which is a deliberate product decision (a sidebar-sized "Experience" section isn't a feature, it's a bug waiting to happen).
 
-<!-- TODO: docs/images/templates.png — side-by-side of Classic and Modern rendering the same content -->
-![The same resume in the Classic and Modern templates](docs/images/templates.png)
+<!-- TODO: images/templates.png — side-by-side of Classic and Modern rendering the same content -->
+![The same resume in the Classic and Modern templates](images/templates.png)
 
-<!-- TODO: docs/images/design-panel.png — the Design popover open, showing theme swatches and sliders -->
-![The design controls panel](docs/images/design-panel.png)
+<!-- TODO: images/design-panel.png — the Design popover open, showing theme swatches and sliders -->
+![The design controls panel](images/design-panel.png)
 
 ---
 
@@ -95,8 +95,8 @@ Your profile holds the canonical version of your career — every job, degree, p
 
 **Add from profile** pulls any entry into a resume as a *snapshot copy*, not a reference. Tailoring a resume for one application can't mutate your profile, and editing your profile can't silently rewrite a resume you already sent out. Each copy remembers where it came from, which leaves the door open for a "re-sync from profile" action later.
 
-<!-- TODO: docs/images/profile.png — the profile page with several sections populated -->
-![The profile page](docs/images/profile.png)
+<!-- TODO: images/profile.png — the profile page with several sections populated -->
+![The profile page](images/profile.png)
 
 ---
 
@@ -120,14 +120,14 @@ Three rules constrain every AI call:
 
 Pasted job descriptions are ephemeral — used for the request, never stored. API keys live server-side only; the browser never sees them. Usage is metered per user with a daily limit and per-request cost tracking.
 
-<!-- TODO: docs/images/ai-bullet.png — the enhance chips open on a bullet with 2–3 variants shown -->
-![Per-bullet AI enhancement with variants](docs/images/ai-bullet.png)
+<!-- TODO: images/ai-bullet.png — the enhance chips open on a bullet with 2–3 variants shown -->
+![Per-bullet AI enhancement with variants](images/ai-bullet.png)
 
-<!-- TODO: docs/images/tailor.png — the tailor panel with a JD pasted and per-section Use/Skip cards -->
+<!-- TODO: images/tailor.png — the tailor panel with a JD pasted and per-section Use/Skip cards -->
 <div style="display:flex; flex-direction:row; gap:1rem; flex-wrap:wrap;">
-  <img src="docs/images/tailor-1.png" alt="Tailoring a resume to a job description" />
-  <img src="docs/images/tailor-2.png" alt="Tailoring a resume to a job description" />
-  <img src="docs/images/tailor-3.png" alt="Tailoring a resume to a job description" />
+  <img src="images/tailor-1.png" alt="Tailoring a resume to a job description" />
+  <img src="images/tailor-2.png" alt="Tailoring a resume to a job description" />
+  <img src="images/tailor-3.png" alt="Tailoring a resume to a job description" />
 </div>
 
 ---
