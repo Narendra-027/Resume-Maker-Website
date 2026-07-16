@@ -10,7 +10,7 @@ Fill in your career once. Build as many resumes from it as you need — each one
 🔗 **[Live demo](#)** · ✍️ **[Try it without an account](#/try)**
 
 <!-- TODO: docs/images/hero.png — the full editor: left form pane, right live A4 preview, ~1600px wide -->
-![The editor: structured forms on the left, live A4 preview on the right](docs/images/hero.png)
+![The editor: structured forms on the left, live A4 preview on the right](images/hero.png)
 
 > **About this repository:** the application source is private. This repo exists to document the product, the architecture, and the engineering decisions behind it.
 
